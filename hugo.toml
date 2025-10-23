@@ -1,0 +1,5 @@
+baseURL = 'https://0xd4s31n.xyz/'
+languageCode = 'en-us'
+title = 'd4s31n'
+
+theme = 'rusty-typewriter'

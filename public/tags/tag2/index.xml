@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on d4s31n</title>
+    <link>http://localhost:1313/tags/tag2/</link>
+    <description>Recent content in Tag2 on d4s31n</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Oct 2025 23:43:03 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First of All</title>
+      <link>http://localhost:1313/posts/first-of-all/</link>
+      <pubDate>Wed, 22 Oct 2025 23:43:03 -0300</pubDate>
+      <guid>http://localhost:1313/posts/first-of-all/</guid>
+      <description>&lt;h1 id=&#34;first-of-all&#34;&gt;First Of All&lt;/h1&gt;&#xA;&lt;p&gt;Starting all&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
